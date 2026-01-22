@@ -62,7 +62,7 @@ Install the required libraries:
 
 ```bash
 pip install pandas matplotlib seaborn streamlit
-
+```
 ## Author
 **Hadbi Aghiles**
 
