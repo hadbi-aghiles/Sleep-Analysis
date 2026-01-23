@@ -29,22 +29,22 @@ The dataset contains sleep-related information for different individuals, includ
 
 The Streamlit app contains the following sections:
 
-### ✅ 1. Dataset Overview
+###  1. Dataset Overview
 - Preview of the first rows of the dataset
 - Display data types
 - Show unique values in categorical columns
 
-### ✅ 2. Data Cleaning
+###  2. Data Cleaning
 - Fill missing values in `Sleep Disorder` with `"No sleep disorder"`
 - Split blood pressure into `Systolic BP` and `Diastolic BP`
 - Remove the original `Blood Pressure (systolic/diastolic)` column
 - Display missing values and data types after cleaning
 
-### ✅ 3. Exploratory Data Analysis
+###  3. Exploratory Data Analysis
 - Display descriptive statistics
 - Display correlation matrix for numerical variables
 
-### ✅ 4. Visualizations
+###  4. Visualizations
 - **Age distribution**
 - **Sleep duration by gender**
 - **Correlation heatmap**
@@ -54,7 +54,7 @@ The Streamlit app contains the following sections:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 Make sure you have Python installed (Python 3.8+ recommended).
 
