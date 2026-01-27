@@ -2,7 +2,7 @@
 
 This project is a Streamlit web app for analyzing a sleep health and lifestyle dataset.  
 The app performs data cleaning, exploratory data analysis, and provides interactive visualizations.
-......
+.....
 ---
 
 ## 🧾 Dataset Description
